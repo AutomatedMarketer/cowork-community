@@ -1,6 +1,6 @@
 ---
 name: community-check
-description: "Daily community engagement skill. Opens a community you run via Claude in Chrome, scans the last 24 hours, drafts replies to unanswered questions + 1 strategic post per day, weaves in funnel touches, and shows every draft for approval before posting. Plan-then-approve. Never auto-posts. Usage: /community-check <slug> where <slug> matches a per-community spec in projects/community-engagement/."
+description: "Daily community engagement skill. Opens a community you run via Claude in Chrome, scans the last 24 hours, drafts replies + 1 strategic post per day, weaves in funnel touches, plan-then-approve. Never auto-posts. Usage: /community-check <slug>."
 ---
 
 # /community-check <slug>

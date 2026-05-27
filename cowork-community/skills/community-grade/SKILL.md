@@ -1,6 +1,6 @@
 ---
 name: community-grade
-description: "Weekly grader for cowork-community. Reads the past 7 days of memory.md, surfaces patterns in what got approved / edited / skipped, and proposes edits to per-community spec files to lock in what's working and fix what's not. Plan-then-approve — proposes changes, never overwrites a spec without the user saying yes. Run every Friday afternoon after the 7-day calibration week."
+description: "Weekly grader for cowork-community. Reads the past 7 days of memory.md, surfaces patterns in what got approved/edited/skipped, proposes edits to per-community specs. Plan-then-approve. Run every Friday after the calibration week."
 ---
 
 # /community-grade

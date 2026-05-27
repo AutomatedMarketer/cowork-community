@@ -1,7 +1,7 @@
 {
   "name": "cowork-community",
-  "version": "0.1.0",
-  "description": "Daily community engagement + lead-scout engine. Platform-agnostic (Skool, Facebook, Circle, Discord, Slack, LinkedIn, Reddit, Mighty). Two modes: founder (drafts replies + 1 post per day, plan-then-approve) and lead-scout (pulls leads from communities you're a member of, never posts). Uses Claude in Chrome. Attaches to cowork-ai-os.",
+  "version": "0.1.1",
+  "description": "Daily community engagement + lead-scout engine. Platform-agnostic (Skool, Facebook, Circle, Discord, Slack, LinkedIn, Reddit, Mighty). Two modes: founder (drafts + plan-then-approve) and lead-scout (read-only). Uses Claude in Chrome. Attaches to cowork-ai-os.",
   "author": {
     "name": "Nuno Tavares",
     "url": "https://github.com/AutomatedMarketer"

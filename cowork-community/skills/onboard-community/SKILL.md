@@ -1,6 +1,6 @@
 ---
 name: onboard-community
-description: "6-phase wizard. Sets up your daily community engagement engine on top of cowork-ai-os. Reads business-brain.md + writing-rules.md, supports N communities across any browser-loadable platform (Skool / Facebook / Circle / Discord / Slack / LinkedIn / Reddit / Mighty / other), splits founder vs lead-scout roles per community, schedules daily runs. Ends with a live first run. ≤15 minutes for one community, ~18 minutes for four."
+description: "6-phase wizard. Sets up your daily community engagement engine on top of cowork-ai-os. Reads business-brain.md + writing-rules.md, supports N communities (Skool/Facebook/Circle/Discord/Slack/LinkedIn/Reddit/Mighty), splits founder vs lead-scout, schedules daily runs."
 ---
 
 # /onboard-community

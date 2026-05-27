@@ -1,6 +1,6 @@
 ---
 name: lead-scan
-description: "Daily lead-scout skill. Opens a community you are a MEMBER of via Claude in Chrome, scans the last 24 hours for posts matching your ICP pain phrases, scores each match 1-5 for fit, writes a leads file to outputs/leads/YYYY-MM-DD.md. Never posts. Never DMs. Never engages. Read-only. Usage: /lead-scan <slug> where <slug> matches a per-community spec with role: lead-scout."
+description: "Daily lead-scout skill. Opens a community you are a MEMBER of via Claude in Chrome, scans the last 24 hours for posts matching ICP pain phrases, scores 1-5 for fit, writes outputs/leads/YYYY-MM-DD.md. Never posts/DMs. Read-only. Usage: /lead-scan <slug>."
 ---
 
 # /lead-scan <slug>

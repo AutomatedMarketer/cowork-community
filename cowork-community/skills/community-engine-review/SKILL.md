@@ -1,6 +1,6 @@
 ---
 name: community-engine-review
-description: "Monthly retro for cowork-community. Reads the past 30 days of memory.md across all communities, surfaces cross-community patterns (which community brings best leads, which platform gets highest engagement, where to add or remove a community), and recommends bigger changes than /community-grade handles weekly. Run on the first of the month."
+description: "Monthly retro for cowork-community. Reads the past 30 days of memory.md across all communities, surfaces cross-community patterns (which community brings best leads, which platform engages most), recommends bigger changes than /community-grade. Run on the first of the month."
 ---
 
 # /community-engine-review
